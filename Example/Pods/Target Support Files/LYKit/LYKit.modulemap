@@ -1,0 +1,6 @@
+framework module LYKit {
+  umbrella header "LYKit-umbrella.h"
+
+  export *
+  module * { export * }
+}

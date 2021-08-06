@@ -1,0 +1,27 @@
+PODS:
+  - LYKit (0.0.2):
+    - LYKit/Extension (= 0.0.2)
+    - LYKit/Tool (= 0.0.2)
+  - LYKit/Extension (0.0.2):
+    - MJRefresh (>= 3.5.0)
+  - LYKit/Tool (0.0.2)
+  - MJRefresh (3.7.2)
+
+DEPENDENCIES:
+  - LYKit (from `../`)
+
+SPEC REPOS:
+  trunk:
+    - MJRefresh
+
+EXTERNAL SOURCES:
+  LYKit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  LYKit: 92fea3fee10035c58931362f6778f19c27fe5a26
+  MJRefresh: 30997d30b347c8e9508a4db11e3a690da0c9b85a
+
+PODFILE CHECKSUM: 248e8be0849fd2cd57d050e66f51c36850e52c66
+
+COCOAPODS: 1.10.1
