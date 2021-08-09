@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'LYComponent'
-  s.version          = '0.0.6'
+  s.version          = '0.0.7'
   s.summary          = 'Swift 常用系统类扩展'
 
 # This description is used to generate tags and improve search results.
@@ -23,11 +23,11 @@ Pod::Spec.new do |s|
                        DESC
 
                        
-  s.homepage         = 'https://github.com/luoyued/LYKit'
+  s.homepage         = 'https://github.com/luoyued/LYComponent'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'luoyued' => '554308841@qq.com' }
-  s.source           = { :git => 'https://github.com/luoyued/LYKit.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/luoyued/LYComponent.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
   s.platform     = :ios, "10.0"
   s.ios.deployment_target = "8.0"
