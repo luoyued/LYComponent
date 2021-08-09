@@ -1,7 +1,7 @@
 PODS:
-  - LYComponent (0.0.7):
-    - LYComponent/Extension (= 0.0.7)
-  - LYComponent/Extension (0.0.7):
+  - LYComponent (0.1.0):
+    - LYComponent/Extension (= 0.1.0)
+  - LYComponent/Extension (0.1.0):
     - MJRefresh (>= 3.5.0)
   - MJRefresh (3.7.2)
 
@@ -17,7 +17,7 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  LYComponent: dead344bf252e12a3ee223736d94e7554b997ff7
+  LYComponent: 0540790c2cba3d4e9c8e205afb446cdeaae1eac9
   MJRefresh: 30997d30b347c8e9508a4db11e3a690da0c9b85a
 
 PODFILE CHECKSUM: d1cbf047e4874be6ec7ef1546407413119dab70f
