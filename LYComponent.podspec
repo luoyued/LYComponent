@@ -7,8 +7,8 @@
 #
 
 Pod::Spec.new do |s|
-  s.name             = 'LYKit'
-  s.version          = '0.0.5'
+  s.name             = 'LYComponent'
+  s.version          = '0.0.6'
   s.summary          = 'Swift 常用系统类扩展'
 
 # This description is used to generate tags and improve search results.

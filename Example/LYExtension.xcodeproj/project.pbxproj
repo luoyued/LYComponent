@@ -44,7 +44,7 @@
 		92DC8BC7A7354B4C8BD99534 /* Pods-LYExtension_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-LYExtension_Tests.release.xcconfig"; path = "Target Support Files/Pods-LYExtension_Tests/Pods-LYExtension_Tests.release.xcconfig"; sourceTree = "<group>"; };
 		BD02AB3A8F8439D1F5980B55 /* Pods_LYExtension_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_LYExtension_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		BD4770CEA9516663F7DB94E5 /* Pods-LYExtension_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-LYExtension_Example.release.xcconfig"; path = "Target Support Files/Pods-LYExtension_Example/Pods-LYExtension_Example.release.xcconfig"; sourceTree = "<group>"; };
-		BF8572A58D2FECB3F3E19629 /* LYKit.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LYKit.podspec; path = ../LYKit.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		BF8572A58D2FECB3F3E19629 /* LYComponent.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LYComponent.podspec; path = ../LYComponent.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		C4CDF1017FF841B05EA6082D /* Pods-LYExtension_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-LYExtension_Tests.debug.xcconfig"; path = "Target Support Files/Pods-LYExtension_Tests/Pods-LYExtension_Tests.debug.xcconfig"; sourceTree = "<group>"; };
 		CBFCFCFA75A3E494CDD3E27B /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -141,7 +141,7 @@
 		607FACF51AFB993E008FA782 /* Podspec Metadata */ = {
 			isa = PBXGroup;
 			children = (
-				BF8572A58D2FECB3F3E19629 /* LYKit.podspec */,
+				BF8572A58D2FECB3F3E19629 /* LYComponent.podspec */,
 				CBFCFCFA75A3E494CDD3E27B /* README.md */,
 				459CADA7CDA536D457EA4138 /* LICENSE */,
 			);
