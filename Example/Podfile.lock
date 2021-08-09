@@ -1,27 +1,25 @@
 PODS:
-  - LYKit (0.0.2):
-    - LYKit/Extension (= 0.0.2)
-    - LYKit/Tool (= 0.0.2)
-  - LYKit/Extension (0.0.2):
+  - LYComponent (0.0.6):
+    - LYComponent/Extension (= 0.0.6)
+  - LYComponent/Extension (0.0.6):
     - MJRefresh (>= 3.5.0)
-  - LYKit/Tool (0.0.2)
   - MJRefresh (3.7.2)
 
 DEPENDENCIES:
-  - LYKit (from `../`)
+  - LYComponent (from `../`)
 
 SPEC REPOS:
   trunk:
     - MJRefresh
 
 EXTERNAL SOURCES:
-  LYKit:
+  LYComponent:
     :path: "../"
 
 SPEC CHECKSUMS:
-  LYKit: 92fea3fee10035c58931362f6778f19c27fe5a26
+  LYComponent: 2053895734ea7c569c2747d101da3f91c7a3f27c
   MJRefresh: 30997d30b347c8e9508a4db11e3a690da0c9b85a
 
-PODFILE CHECKSUM: 248e8be0849fd2cd57d050e66f51c36850e52c66
+PODFILE CHECKSUM: d1cbf047e4874be6ec7ef1546407413119dab70f
 
 COCOAPODS: 1.10.1

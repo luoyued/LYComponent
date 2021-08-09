@@ -1,7 +1,7 @@
 # Acknowledgements
 This application makes use of the following third party libraries:
 
-## LYKit
+## LYComponent
 
 Copyright (c) 2021 554308841@qq.com <554308841@qq.com>
 

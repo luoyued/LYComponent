@@ -11,6 +11,6 @@
 #endif
 
 
-FOUNDATION_EXPORT double LYKitVersionNumber;
-FOUNDATION_EXPORT const unsigned char LYKitVersionString[];
+FOUNDATION_EXPORT double LYComponentVersionNumber;
+FOUNDATION_EXPORT const unsigned char LYComponentVersionString[];
 
