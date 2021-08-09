@@ -33,7 +33,7 @@ Pod::Spec.new do |s|
 #  s.ios.deployment_target = "8.0"
 
   s.subspec 'Extension' do |extension|
-    extension.source_files = 'LYComponent/Pod/Extension/**/*'
+    extension.source_files = 'Pod/Classes/Extension/**/*'
     extension.dependency 'MJRefresh', '>=3.5.0'
   end
   
