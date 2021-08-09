@@ -1,8 +1,9 @@
 //
 //  UITableView+extension.swift
-//  LYExtension
+//  LYComponent
 //
-//  Created by luoyue on 2021/8/5.
+//  Created by luoyue on 2021/8/8.
+//  Copyright © 2021 luoyue. All rights reserved.
 //
 
 import UIKit

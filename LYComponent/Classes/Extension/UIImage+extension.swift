@@ -1,5 +1,6 @@
 //
-//  UIImageExtension.swift
+//  UIImage+extension.swift
+//  LYComponent
 //
 //  Created by luoyue on 2019/4/30.
 //  Copyright © 2019 luoyue. All rights reserved.

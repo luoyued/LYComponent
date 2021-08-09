@@ -1,9 +1,9 @@
 //
-//  NBShadowPath.swift
-//  MeditationDiary
+//  CALayer+extension.swift
+//  LYComponent
 //
-//  Created by luoyue on 2019/11/27.
-//  Copyright © 2019 Novabeyond. All rights reserved.
+//  Created by luoyue on 2021/8/8.
+//  Copyright © 2021 luoyue. All rights reserved.
 //
 
 import UIKit

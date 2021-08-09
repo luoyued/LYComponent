@@ -1,9 +1,9 @@
 //
-//  UIScrollViewExtension.swift
-//  WisdomFN
+//  UIScrollView+extension.swift
+//  LYComponent
 //
-//  Created by Zhangxu on 2020/7/10.
-//  Copyright © 2020 Zhangxu. All rights reserved.
+//  Created by luoyue on 2021/8/8.
+//  Copyright © 2021 luoyue. All rights reserved.
 //
 
 import UIKit

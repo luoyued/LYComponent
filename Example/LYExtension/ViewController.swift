@@ -7,7 +7,7 @@
 //
 
 import UIKit
-import LYKit
+import LYComponent
 class ViewController: UIViewController {
 
     override func viewDidLoad() {

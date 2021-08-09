@@ -1,8 +1,9 @@
 //
-//  NBGradientLayerCategory.swift
-//  
+//  CAGradientLayer+extensionategory.swift
+//  LYComponent
 //
-//  Created by luoyue on 2020/3/5.
+//  Created by luoyue on 2021/8/8.
+//  Copyright © 2021 luoyue. All rights reserved.
 //
 
 import UIKit

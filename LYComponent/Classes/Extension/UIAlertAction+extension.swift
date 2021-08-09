@@ -1,9 +1,9 @@
- //
-//  UIAlertActionCategory.swift
-//  MeditationDiary
 //
-//  Created by 落月 on 2019/12/30.
-//  Copyright © 2019 Novabeyond. All rights reserved.
+//  UIAlertAction+extension.swift
+//  LYComponent
+//
+//  Created by luoyue on 2021/8/8.
+//  Copyright © 2021 luoyue. All rights reserved.
 //
 
 import UIKit

@@ -1,9 +1,9 @@
 //
-//  UIViewExtension.swift
-//  WisdomFN
+//  UIView+extension.swift
+//  LYComponent
 //
-//  Created by Zhangxu on 2020/7/10.
-//  Copyright © 2020 Zhangxu. All rights reserved.
+//  Created by luoyue on 2021/8/8.
+//  Copyright © 2021 luoyue. All rights reserved.
 //
 
 import UIKit
@@ -13,7 +13,6 @@ extension UIView{
     /// viewName
     /// - Returns: description
     public class func viewName() -> String {
-        
         return NSStringFromClass(self.classForCoder())
     }
     
@@ -47,7 +46,6 @@ extension UIView{
 
 // MARK:- UIView.frame
 extension UIView {
-    
     public var x:CGFloat{
         get{
             return self.frame.origin.x

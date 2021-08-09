@@ -1,9 +1,9 @@
 //
-//  UILabelExtension.swift
-//  wordCup
+//  UILabel+extension.swift
+//  LYComponent
 //
-//  Created by wang dan on 2018/5/16.
-//  Copyright © 2018年 luoyue. All rights reserved.
+//  Created by luoyue on 2021/8/8.
+//  Copyright © 2021 luoyue. All rights reserved.
 //
 
 import UIKit

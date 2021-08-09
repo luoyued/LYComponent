@@ -1,5 +1,5 @@
 import XCTest
-import LYKit
+import LYComponent
 
 class Tests: XCTestCase {
     
